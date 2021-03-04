@@ -1,0 +1,4 @@
+Code : Nom de l'action : Attend un paramètre (oui/non) 
+D:"Début":oui
+E:"Fin":non
+Q:"Arrêt urgence":non
